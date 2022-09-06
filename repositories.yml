@@ -1,3 +1,7 @@
+- url: "https://github.com/CircleCI-Public/ansible"
+  team: "CPE"
+  subteam: "Images"
+  type: "tooling"
 - url: "https://github.com/CircleCI-Public/cimg-android"
   team: "CPE"
   subteam: "Images"
